@@ -1,0 +1,11 @@
+{
+  "name": "tinyrx",
+  "version": "1.0.0",
+  "description": "Tiny Reactive Extensions! No code and almost no features!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra Parker",
+  "license": "ISC"
+}
